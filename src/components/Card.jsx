@@ -17,7 +17,6 @@ const saleIcon = '../../images/sale.png'
                <Button text='LEARN MORE' isLight={false}/>
                 {inStock && <Button text='BUY NOW' isLight={true}/>}
             </div>
-           
         </div>
         </>
     )
